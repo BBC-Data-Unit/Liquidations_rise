@@ -43,9 +43,9 @@ The Shared Data Unit analysed creditors’ voluntary liquidation notices on the 
 ## Partner usage
 The story appeared on the UK BBC News homepage as well as regional radio bulletins across the UK. It was also used by more than 20 outlets in our wider partner network, including the following:
 
-- My Local Lincolnshire, [Navigating tough times: Lincolnshire's insolvency figures on the rise](https://mylocal.co.uk/lincolnshire/feed/navigating-tough-times-lincolnshire-s-insolvency-figures-on-the-rise/76369) 13 June, 2023.
-- Suffolk News, [Suffolk sees a 40 per cent rise in company insolvencies](https://www.suffolknews.co.uk/bury-st-edmunds/news/suffolk-sees-40-per-cent-rise-in-company-insolvencies-9316654/)  13 June 2023.
-- Lichfield Live, [Figures reveal company insolvencies have jumped by two thirds in Staffordshire](https://lichfieldlive.co.uk/2023/06/13/figures-reveal-company-insolvencies-in-staffordshire-have-jumped-by-more-than-two-thirds-since-before-the-covid-pandemic/) 13 June 2023.
-- [Rise in firms going out of business as pandemic support ends](https://www.belfasttelegraph.co.uk/business/northern-ireland/rise-in-firms-going-out-of-business-as-pandemic-support-measures-end/a1253431168.html) 13 June 2023.
-- [East of England saw largest rise in businesses voluntarily shutting down last year](https://planetradio.co.uk/hits-radio/suffolk/news/east-england-insolvencies/) June 13, 2023.
-- [Scotland records biggest post-Covid rise in business insolvencies out of UK nations](https://www.scotsman.com/business/scotland-records-biggest-post-covid-rise-in-business-insolvencies-out-of-all-uk-nations-4179986) June 13, 2023.
+- My Local Lincolnshire: [Navigating tough times: Lincolnshire's insolvency figures on the rise](https://mylocal.co.uk/lincolnshire/feed/navigating-tough-times-lincolnshire-s-insolvency-figures-on-the-rise/76369) 13 June, 2023.
+- Suffolk News: [Suffolk sees a 40 per cent rise in company insolvencies](https://www.suffolknews.co.uk/bury-st-edmunds/news/suffolk-sees-40-per-cent-rise-in-company-insolvencies-9316654/)  13 June 2023.
+- Lichfield Live: [Figures reveal company insolvencies have jumped by two thirds in Staffordshire](https://lichfieldlive.co.uk/2023/06/13/figures-reveal-company-insolvencies-in-staffordshire-have-jumped-by-more-than-two-thirds-since-before-the-covid-pandemic/) 13 June 2023.
+- Belfast Telegraph: [Rise in firms going out of business as pandemic support ends](https://www.belfasttelegraph.co.uk/business/northern-ireland/rise-in-firms-going-out-of-business-as-pandemic-support-measures-end/a1253431168.html) 13 June 2023.
+- Planet Radio: [East of England saw largest rise in businesses voluntarily shutting down last year](https://planetradio.co.uk/hits-radio/suffolk/news/east-england-insolvencies/) June 13, 2023.
+- The Scotsman: [Scotland records biggest post-Covid rise in business insolvencies out of UK nations](https://www.scotsman.com/business/scotland-records-biggest-post-covid-rise-in-business-insolvencies-out-of-all-uk-nations-4179986) June 13, 2023.
