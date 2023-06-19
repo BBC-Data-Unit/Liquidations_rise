@@ -3,6 +3,8 @@ The background and data behind the Shared Data Unit's recent regional study of U
 
 In June 2023, the Shared Data Unit carried out an investigation into business liquidations across the UK - looking at how areas had been affected differently.
 
+<img width="347" alt="insolvencies map" src="https://github.com/BBC-Data-Unit/Liquidations_rise/assets/61186777/3aae9494-13b7-421b-92f8-ccf92054ca08">
+
 We found that some parts of the UK saw a fivefold increase in firms closing down in 2022, compared to the year prior to the pandemic.
 
 Two towns in the London commuter belt, Havering and Southend-on-Sea saw the biggest rise.
