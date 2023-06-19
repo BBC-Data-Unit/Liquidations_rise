@@ -34,8 +34,8 @@ The Shared Data Unit analysed creditors’ voluntary liquidation notices on the 
 - Finally we used the Companies House shapshot to map SIC codes (which describe the nature of a business) to the liquidation notices in our dataset. This way we could get a regional picture of the types of industry to fail in each area in 2022.     
 
 ## Interviews
-- Ryan Waite - former owner of the Geek Retreat in Bolton.
-- Dale and Rachel Wright - former owners of the Auction House restaurant in Louth.
+- Ryan Waite, former owner of the Geek Retreat in Bolton.
+- Dale and Rachel Wright, former owners of the Auction House restaurant in Louth.
 - Michael Weedon, member lead for retail at the Federation of Small Businesses.
 - Julie Palmer, regional director of insolvency experts Begbies Traynor.
 - Nathan Emerson, CEO of estate agents' regulatory body Propertymark.
