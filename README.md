@@ -41,7 +41,7 @@ The Shared Data Unit analysed creditors’ voluntary liquidation notices on the 
 - Nathan Emerson, CEO of estate agents' regulatory body Propertymark.
 
 ## Partner usage
-The story appeared on the UK BBC News homepage as well as regional radio bulletins across the UK. It was also used by more than 20 outlets in our wider partner network, including the following:
+The story appeared on the UK BBC News homepage as well as regional radio bulletins across the UK. The Shared Data Unit also makes data journalism available to news organisations across the media industry, as part of a partnership between the BBC and the News Media Association. It was used by more than 20 outlets in our wider partner network, including the following:
 
 - My Local Lincolnshire: [Navigating tough times: Lincolnshire's insolvency figures on the rise](https://mylocal.co.uk/lincolnshire/feed/navigating-tough-times-lincolnshire-s-insolvency-figures-on-the-rise/76369) 13 June, 2023.
 - Suffolk News: [Suffolk sees a 40 per cent rise in company insolvencies](https://www.suffolknews.co.uk/bury-st-edmunds/news/suffolk-sees-40-per-cent-rise-in-company-insolvencies-9316654/)  13 June 2023.
