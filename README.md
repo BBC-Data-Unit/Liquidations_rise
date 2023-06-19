@@ -32,4 +32,4 @@ We also shared this story pack, containing expert analysis from the Federation o
 We used Python notebooks to extract all insolvency notices from the Gazette - the official public record for insolvencies in the UK - between 2019 and 2022.
 We then used R Studio to analyse the data, first filtering the results down to just one insolvency type: creditors' voluntary liquidations, before extracting the postcode from each entry and mapping those to upper and lower-tiered local authority areas in the UK using the National Postcode Lookup. Finally we used the Companies House shapshot to map SIC codes (which describe the nature of a business) to the liquidation notices in our dataset.    
 
-Scripts and code
+## Scripts and code
