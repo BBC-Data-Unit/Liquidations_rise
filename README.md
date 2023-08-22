@@ -31,7 +31,7 @@ The Shared Data Unit analysed creditors’ voluntary liquidation notices on the 
 ## Methodology
 - We used Python notebooks to extract all insolvency notices from the Gazette - the official public record for insolvencies in the UK - between 2019 and 2022. An example of the notebook can be found [here](https://colab.research.google.com/drive/18wNXHZGR0i0F9CibQI2McXfKiI5sOPMk?usp=sharing).
 - We then used R Studio to analyse the data, first filtering the results down to just one insolvency type: creditors' voluntary liquidations, before extracting the postcode from each entry and mapping those to upper and lower-tiered local authority areas in the UK using the National Postcode Lookup released by the Office for National Statistics. A script for this process can be found in the files section at the top of this repository.
-- Finally we used the Companies House shapshot to map SIC codes (which describe the nature of a business) to the liquidation notices in our dataset. This way we could get a regional picture of the types of industry to fail in each area in 2022.     
+- Finally we used the Companies House snapshot to map SIC codes (which describe the nature of a business) to the liquidation notices in our dataset. This way we could get a regional picture of the types of industry to fail in each area in 2022.     
 
 ## Interviews
 - Ryan Waite, former owner of the Geek Retreat in Bolton.
