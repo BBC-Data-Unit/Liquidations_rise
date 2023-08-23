@@ -1,4 +1,5 @@
-# Liquidations_rise
+# Small firm closures behind rise in liquidations, experts say
+
 The background and data behind the Shared Data Unit's recent regional study of UK business insolvencies 
 
 In June 2023, the Shared Data Unit carried out an [investigation into business liquidations across the UK](https://www.bbc.co.uk/news/uk-65767982) - looking at how areas had been affected differently by the cost of living crisis.
